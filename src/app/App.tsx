@@ -24,7 +24,7 @@ function ScrollToTop() {
 export default function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter basename="/portfolio/">
+      <BrowserRouter basename="/portfolio-v2">
         <ScrollToTop />
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors">
           <Navigation />

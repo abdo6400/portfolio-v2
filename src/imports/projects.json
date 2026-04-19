@@ -2,17 +2,17 @@
   {
     "id": "0",
     "title": "ADDUSTOUR",
-    "image": "/portfolio/prots/addustour/proimg.png",
+    "image": "/portfolio-v2/prots/addustour/proimg.png",
     "images": [
-      "/portfolio/prots/addustour/proimg.png",
-      "/portfolio/prots/addustour/unnamed (1).jpg",
-      "/portfolio/prots/addustour/unnamed (2).jpg",
-      "/portfolio/prots/addustour/unnamed (3).jpg",
-      "/portfolio/prots/addustour/unnamed (4).jpg",
-      "/portfolio/prots/addustour/unnamed (5).jpg",
-      "/portfolio/prots/addustour/unnamed (6).jpg",
-      "/portfolio/prots/addustour/unnamed.jpg",
-      "/portfolio/prots/addustour/unnamed.png"
+      "/portfolio-v2/prots/addustour/proimg.png",
+      "/portfolio-v2/prots/addustour/unnamed (1).jpg",
+      "/portfolio-v2/prots/addustour/unnamed (2).jpg",
+      "/portfolio-v2/prots/addustour/unnamed (3).jpg",
+      "/portfolio-v2/prots/addustour/unnamed (4).jpg",
+      "/portfolio-v2/prots/addustour/unnamed (5).jpg",
+      "/portfolio-v2/prots/addustour/unnamed (6).jpg",
+      "/portfolio-v2/prots/addustour/unnamed.jpg",
+      "/portfolio-v2/prots/addustour/unnamed.png"
     ],
     "description": "Official mobile news application delivering real-time news, articles, and media content.",
     "detailedDescription": "A comprehensive news ecosystem for Jordan\u0027s leading daily newspaper. The app provides a high-performance reading experience with offline caching, multimedia integration, and a sophisticated notification system.",
@@ -49,18 +49,18 @@
       "Multi-layer security and encryption",
       "Quick-search and intelligent filtering system"
     ],
-    "image": "/portfolio/prots/albasheq/proimg.png",
+    "image": "/portfolio-v2/prots/albasheq/proimg.png",
     "images": [
-      "/portfolio/prots/albasheq/proimg.png",
-      "/portfolio/prots/albasheq/home.png",
-      "/portfolio/prots/albasheq/cards.png",
-      "/portfolio/prots/albasheq/buycard.png",
-      "/portfolio/prots/albasheq/search.png",
-      "/portfolio/prots/albasheq/favorite.png",
-      "/portfolio/prots/albasheq/drawer.png",
-      "/portfolio/prots/albasheq/demination.png",
-      "/portfolio/prots/albasheq/printlastcards.png",
-      "/portfolio/prots/albasheq/account.PNG"
+      "/portfolio-v2/prots/albasheq/proimg.png",
+      "/portfolio-v2/prots/albasheq/home.png",
+      "/portfolio-v2/prots/albasheq/cards.png",
+      "/portfolio-v2/prots/albasheq/buycard.png",
+      "/portfolio-v2/prots/albasheq/search.png",
+      "/portfolio-v2/prots/albasheq/favorite.png",
+      "/portfolio-v2/prots/albasheq/drawer.png",
+      "/portfolio-v2/prots/albasheq/demination.png",
+      "/portfolio-v2/prots/albasheq/printlastcards.png",
+      "/portfolio-v2/prots/albasheq/account.PNG"
     ],
     "technologies": [
       "Flutter",
@@ -87,13 +87,13 @@
       "Offline mode for recent transaction viewing",
       "Enterprise-level security protocols"
     ],
-    "image": "/portfolio/prots/golden/golenproimg.png",
+    "image": "/portfolio-v2/prots/golden/golenproimg.png",
     "images": [
-      "/portfolio/prots/golden/golenproimg.png",
-      "/portfolio/prots/golden/screenshot-1690128415633.png",
-      "/portfolio/prots/golden/screenshot-1690128433665.png",
-      "/portfolio/prots/golden/screenshot-1690128455465.png",
-      "/portfolio/prots/golden/screenshot-1690128471404.png"
+      "/portfolio-v2/prots/golden/golenproimg.png",
+      "/portfolio-v2/prots/golden/screenshot-1690128415633.png",
+      "/portfolio-v2/prots/golden/screenshot-1690128433665.png",
+      "/portfolio-v2/prots/golden/screenshot-1690128455465.png",
+      "/portfolio-v2/prots/golden/screenshot-1690128471404.png"
     ],
     "technologies": [
       "Flutter",
@@ -119,16 +119,16 @@
       "Unified transaction ledger across all services",
       "Biometric authentication integration"
     ],
-    "image": "/portfolio/prots/sadad/sadadproimg.png",
+    "image": "/portfolio-v2/prots/sadad/sadadproimg.png",
     "images": [
-      "/portfolio/prots/sadad/sadadproimg.png",
-      "/portfolio/prots/sadad/unnamed (1).png",
-      "/portfolio/prots/sadad/unnamed (2).png",
-      "/portfolio/prots/sadad/unnamed (3).png",
-      "/portfolio/prots/sadad/unnamed (4).png",
-      "/portfolio/prots/sadad/unnamed (5).png",
-      "/portfolio/prots/sadad/unnamed (6).png",
-      "/portfolio/prots/sadad/unnamed.png"
+      "/portfolio-v2/prots/sadad/sadadproimg.png",
+      "/portfolio-v2/prots/sadad/unnamed (1).png",
+      "/portfolio-v2/prots/sadad/unnamed (2).png",
+      "/portfolio-v2/prots/sadad/unnamed (3).png",
+      "/portfolio-v2/prots/sadad/unnamed (4).png",
+      "/portfolio-v2/prots/sadad/unnamed (5).png",
+      "/portfolio-v2/prots/sadad/unnamed (6).png",
+      "/portfolio-v2/prots/sadad/unnamed.png"
     ],
     "technologies": [
       "Flutter",
@@ -154,10 +154,10 @@
       "Virtual tour media integration",
       "Dynamic listing management for agents"
     ],
-    "image": "/portfolio/prots/packAndGo.png",
+    "image": "/portfolio-v2/prots/packAndGo.png",
     "images": [
-      "/portfolio/prots/packAndGo.png",
-      "/portfolio/prots/packAndGoDash.PNG"
+      "/portfolio-v2/prots/packAndGo.png",
+      "/portfolio-v2/prots/packAndGoDash.PNG"
     ],
     "technologies": [
       "Flutter",
@@ -183,12 +183,12 @@
       "Multi-provider supply chain integration",
       "Dynamic pricing engine"
     ],
-    "image": "/portfolio/prots/trendup/Screenshot_28-3-2026_73444_play.google.com.jpeg",
+    "image": "/portfolio-v2/prots/trendup/Screenshot_28-3-2026_73444_play.google.com.jpeg",
     "images": [
-      "/portfolio/prots/trendup/Screenshot_28-3-2026_73444_play.google.com.jpeg",
-      "/portfolio/prots/trendup/Screenshot_28-3-2026_7350_play.google.com.jpeg",
-      "/portfolio/prots/trendup/Screenshot_28-3-2026_73518_play.google.com.jpeg",
-      "/portfolio/prots/trendup/Screenshot_28-3-2026_7359_play.google.com.jpeg"
+      "/portfolio-v2/prots/trendup/Screenshot_28-3-2026_73444_play.google.com.jpeg",
+      "/portfolio-v2/prots/trendup/Screenshot_28-3-2026_7350_play.google.com.jpeg",
+      "/portfolio-v2/prots/trendup/Screenshot_28-3-2026_73518_play.google.com.jpeg",
+      "/portfolio-v2/prots/trendup/Screenshot_28-3-2026_7359_play.google.com.jpeg"
     ],
     "technologies": [
       "Flutter",
@@ -214,12 +214,12 @@
       "Multi-language support for diverse markets",
       "Sophisticated service categorization"
     ],
-    "image": "/portfolio/prots/package/Screenshot_28-3-2026_73624_play.google.com.jpeg",
+    "image": "/portfolio-v2/prots/package/Screenshot_28-3-2026_73624_play.google.com.jpeg",
     "images": [
-      "/portfolio/prots/package/Screenshot_28-3-2026_73624_play.google.com.jpeg",
-      "/portfolio/prots/package/Screenshot_28-3-2026_73633_play.google.com.jpeg",
-      "/portfolio/prots/package/Screenshot_28-3-2026_73645_play.google.com.jpeg",
-      "/portfolio/prots/package/Screenshot_28-3-2026_73653_play.google.com.jpeg"
+      "/portfolio-v2/prots/package/Screenshot_28-3-2026_73624_play.google.com.jpeg",
+      "/portfolio-v2/prots/package/Screenshot_28-3-2026_73633_play.google.com.jpeg",
+      "/portfolio-v2/prots/package/Screenshot_28-3-2026_73645_play.google.com.jpeg",
+      "/portfolio-v2/prots/package/Screenshot_28-3-2026_73653_play.google.com.jpeg"
     ],
     "technologies": [
       "Flutter",
@@ -246,15 +246,15 @@
       "Multi-category support (Tech, Furniture, etc.)",
       "Market data visualization"
     ],
-    "image": "/portfolio/prots/thamin/Screenshot_28-3-2026_73832_play.google.com.jpeg",
+    "image": "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73832_play.google.com.jpeg",
     "images": [
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73832_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73840_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73847_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73853_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73919_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_73927_play.google.com.jpeg",
-      "/portfolio/prots/thamin/Screenshot_28-3-2026_7397_play.google.com.jpeg"
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73832_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73840_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73847_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73853_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73919_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_73927_play.google.com.jpeg",
+      "/portfolio-v2/prots/thamin/Screenshot_28-3-2026_7397_play.google.com.jpeg"
     ],
     "technologies": [
       "Flutter",
@@ -281,13 +281,13 @@
       "Transparency reports for donors",
       "Automated receipting and coordination"
     ],
-    "image": "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_74027_apps.apple.com.jpeg",
+    "image": "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_74027_apps.apple.com.jpeg",
     "images": [
-      "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_74027_apps.apple.com.jpeg",
-      "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_74048_apps.apple.com.jpeg",
-      "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_74055_apps.apple.com.jpeg",
-      "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_74110_apps.apple.com.jpeg",
-      "/portfolio/prots/khairalmadina/Screenshot_28-3-2026_7413_apps.apple.com.jpeg"
+      "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_74027_apps.apple.com.jpeg",
+      "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_74048_apps.apple.com.jpeg",
+      "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_74055_apps.apple.com.jpeg",
+      "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_74110_apps.apple.com.jpeg",
+      "/portfolio-v2/prots/khairalmadina/Screenshot_28-3-2026_7413_apps.apple.com.jpeg"
     ],
     "technologies": [
       "Flutter",
@@ -313,13 +313,13 @@
       "User profile and address management",
       "Promotional banners and discounts system"
     ],
-    "image": "/portfolio/prots/jamala/jamalaprimg.png",
+    "image": "/portfolio-v2/prots/jamala/jamalaprimg.png",
     "images": [
-      "/portfolio/prots/jamala/jamalaprimg.png",
-      "/portfolio/prots/jamala/Screenshot_1659151031.png",
-      "/portfolio/prots/jamala/Screenshot_1659151136.png",
-      "/portfolio/prots/jamala/Screenshot_1659153794.png",
-      "/portfolio/prots/jamala/Screenshot_1659154061.png"
+      "/portfolio-v2/prots/jamala/jamalaprimg.png",
+      "/portfolio-v2/prots/jamala/Screenshot_1659151031.png",
+      "/portfolio-v2/prots/jamala/Screenshot_1659151136.png",
+      "/portfolio-v2/prots/jamala/Screenshot_1659153794.png",
+      "/portfolio-v2/prots/jamala/Screenshot_1659154061.png"
     ],
     "technologies": ["Flutter", "Bloc", "Firebase", "REST API", "Material UI"],
     "category": "E-commerce",
@@ -339,11 +339,11 @@
       "Batch transaction processing",
       "Custom API integrations"
     ],
-    "image": "/portfolio/prots/leapTech.png",
+    "image": "/portfolio-v2/prots/leapTech.png",
     "images": [
-      "/portfolio/prots/leapTech.png",
-      "/portfolio/prots/leaptheckdash.PNG",
-      "/portfolio/prots/leptechdash.PNG"
+      "/portfolio-v2/prots/leapTech.png",
+      "/portfolio-v2/prots/leaptheckdash.PNG",
+      "/portfolio-v2/prots/leptechdash.PNG"
     ],
     "technologies": [
       "Flutter",
@@ -369,8 +369,8 @@
       "Team and player statistics",
       "Interactive fan community features"
     ],
-    "image": "/portfolio/prots/nejamAlkora.png",
-    "images": ["/portfolio/prots/nejamAlkora.png"],
+    "image": "/portfolio-v2/prots/nejamAlkora.png",
+    "images": ["/portfolio-v2/prots/nejamAlkora.png"],
     "technologies": [
       "Flutter",
       "Bloc",
@@ -395,8 +395,8 @@
       "Service rating and reviews",
       "Loyalty rewards program"
     ],
-    "image": "/portfolio/prots/car_washing.png",
-    "images": ["/portfolio/prots/car_washing.png"],
+    "image": "/portfolio-v2/prots/car_washing.png",
+    "images": ["/portfolio-v2/prots/car_washing.png"],
     "technologies": [
       "Flutter",
       "Bloc",
@@ -410,7 +410,7 @@
     "store": ""
   },
   {
-    "image": "/portfolio/prots/ama/1.png",
+    "image": "/portfolio-v2/prots/ama/1.png",
     "detailedDescription": "AMA E-Commerce is a comprehensive dual-app platform that streamlines online shopping and last-mile delivery. The User App provides a rich shopping experience with advanced search, personalized recommendations, and real-time order tracking. The Delivery Man App equips couriers with route optimization, order management, digital proof of delivery, and transparent earnings tracking.",
     "id": "13",
     "technologies": [
@@ -427,10 +427,10 @@
     "description": "Full-stack e-commerce platform with a User App and a Delivery Man App for seamless shopping and logistics.",
     "github": "https://github.com/abdo6400/AMA-E-COMMERCE",
     "images": [
-      "/portfolio/prots/ama/1.png",
-      "/portfolio/prots/ama/2.png",
-      "/portfolio/prots/ama/3.png",
-      "/portfolio/prots/ama/4.png"
+      "/portfolio-v2/prots/ama/1.png",
+      "/portfolio-v2/prots/ama/2.png",
+      "/portfolio-v2/prots/ama/3.png",
+      "/portfolio-v2/prots/ama/4.png"
     ],
     "features": [
       "Dual-app architecture: User App + Delivery Man App",
@@ -465,9 +465,9 @@
       "Laser Cannon and Shoot-Gun weapons with intensity and duration",
       "Full OOP design with a detailed class diagram"
     ],
-    "image": "/portfolio/prots/game.mp4",
-    "images": ["/portfolio/prots/game.mp4"],
-    "video": "/portfolio/prots/game.mp4",
+    "image": "/portfolio-v2/prots/game.mp4",
+    "images": ["/portfolio-v2/prots/game.mp4"],
+    "video": "/portfolio-v2/prots/game.mp4",
     "technologies": [
       "Java",
       "OOP",
@@ -565,8 +565,8 @@
       "Trained on Ryerson (RAVDESS) and Toronto (TESS) datasets",
       "Instant emotion detection visualization and results display"
     ],
-    "image": "/portfolio/prots/emtion.mp4",
-    "images": ["/portfolio/prots/emtion.mp4"],
+    "image": "/portfolio-v2/prots/emtion.mp4",
+    "images": ["/portfolio-v2/prots/emtion.mp4"],
     "technologies": [
       "Flutter",
       "Python (FastAPI/Flask)",
@@ -587,8 +587,8 @@
   {
     "id": "18",
     "title": "E-commerce Backend API",
-    "image": "/portfolio/prots/ecommerce_backend/banner.png",
-    "images": ["/portfolio/prots/ecommerce_backend/banner.png"],
+    "image": "/portfolio-v2/prots/ecommerce_backend/banner.png",
+    "images": ["/portfolio-v2/prots/ecommerce_backend/banner.png"],
     "description": "Robust .NET 8.0 enterprise-grade backend for scalable e-commerce platforms with Stripe and SignalR.",
     "detailedDescription": "A high-performance, enterprise-ready backend solution engineered with .NET 8.0 and ASP.NET Core. Built on Clean Architecture principles, it integrates advanced features like Stripe for seamless payments, SignalR for real-time order updates, and Azure Identity for secure authentication. The system employs the Repository and Unit of Work patterns for efficient SQL Server data management, ensuring a highly scalable and maintainable infrastructure for modern e-commerce services.",
     "features": [
