@@ -1,0 +1,61 @@
+.assistant-bubble {
+  max-width: 85%;
+  width: fit-content;
+  padding: 10px 14px;
+  box-sizing: border-box;
+  overflow: hidden;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* If the bubble contains a table wrapper, allow it to use full available width */
+.assistant-bubble:has(table),
+.assistant-bubble.has-table {
+  width: 85%;
+  max-width: 85%;
+}
+
+.assistant-markdown-scope .table-wrapper {
+  overflow-x: auto;
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.assistant-markdown-scope table {
+  border-collapse: collapse;
+  width: max-content;
+  max-width: 100%;
+  font-size: 0.78rem;
+}
+
+.assistant-markdown-scope th,
+.assistant-markdown-scope td {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 6px 10px;
+  text-align: left;
+  white-space: nowrap;
+  max-width: 180px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.assistant-markdown-scope th {
+  background: rgba(255, 255, 255, 0.07);
+  font-weight: 600;
+}
+
+.assistant-markdown-scope .table-wrapper::-webkit-scrollbar {
+  height: 4px;
+}
+
+.assistant-markdown-scope .table-wrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.assistant-markdown-scope .table-wrapper::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}

@@ -5,6 +5,7 @@ import remarkGfm from 'remark-gfm';
 import { Orbit } from 'lucide-react';
 import { cn } from '../../utils/cn';
 import { Message } from '../../types';
+import './chat-tables.css';
 
 interface MessageBubbleProps {
   message: Message;
@@ -12,6 +13,7 @@ interface MessageBubbleProps {
 
 export const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
   const isAssistant = message.role === 'assistant';
+  const hasTable = isAssistant && message.content.includes('|');
 
   return (
     <motion.div
@@ -34,10 +36,11 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
 
       <div
         className={cn(
-          "max-w-[85%] md:max-w-[80%] px-5 py-3.5 rounded-2xl text-sm leading-relaxed shadow-sm transition-all",
+          "rounded-2xl text-sm leading-relaxed shadow-sm transition-all",
           isAssistant
-            ? "bg-white/80 dark:bg-gray-900/80 backdrop-blur-md text-gray-900 dark:text-gray-100 rounded-tl-sm border border-gray-200/60 dark:border-gray-800/60 hover:border-cyan-500/30"
-            : "bg-gradient-to-br from-cyan-600 to-violet-700 text-white rounded-tr-sm shadow-md shadow-cyan-500/10"
+            ? "assistant-bubble w-fit max-w-[85%] px-[14px] py-[10px] box-border overflow-hidden bg-white/80 dark:bg-gray-900/80 backdrop-blur-md text-gray-900 dark:text-gray-100 rounded-tl-sm border border-gray-200/60 dark:border-gray-800/60 hover:border-cyan-500/30"
+            : "max-w-[85%] md:max-w-[80%] px-5 py-3.5 bg-gradient-to-br from-cyan-600 to-violet-700 text-white rounded-tr-sm shadow-md shadow-cyan-500/10",
+          hasTable && "has-table"
         )}
       >
         <div className={cn(
@@ -45,11 +48,19 @@ export const MessageBubble: React.FC<MessageBubbleProps> = ({ message }) => {
           isAssistant ? "dark:prose-invert" : "prose-invert",
           "prose-strong:font-black prose-strong:text-cyan-600 dark:prose-strong:text-cyan-400",
           "prose-p:leading-relaxed prose-pre:bg-black/10 dark:prose-pre:bg-white/5 prose-pre:rounded-lg prose-code:text-cyan-600 dark:prose-code:text-cyan-400 prose-code:bg-cyan-500/10 prose-code:px-1 prose-code:rounded prose-code:before:content-none prose-code:after:content-none",
-          "prose-table:border-collapse prose-th:border prose-th:border-gray-200/50 dark:prose-th:border-gray-700/50 prose-th:px-3 prose-th:py-2 prose-td:border prose-td:border-gray-200/50 dark:prose-td:border-gray-700/50 prose-td:px-3 prose-td:py-2"
+          isAssistant && "assistant-markdown-scope"
         )}>
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>
-            {message.content}
-          </ReactMarkdown>
+          {isAssistant ? (
+            <div className="table-wrapper overflow-x-auto w-full max-w-full block">
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {message.content}
+              </ReactMarkdown>
+            </div>
+          ) : (
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+              {message.content}
+            </ReactMarkdown>
+          )}
         </div>
         <div className="flex items-center justify-between mt-2.5">
            <span className={cn(
